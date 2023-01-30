@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java, Python, Data Analytics**
 
-- 📫 How to reach me **nihalashah1312@gmail.com**
+- 📫 You can reach me at **nihalashah1312@gmail.com**
 
 - ⚡ Fun fact **I am Jolly**
 
